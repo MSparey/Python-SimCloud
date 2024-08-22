@@ -9,9 +9,10 @@ Python SimCloud currently predicts fractional cloud coverage over the UK wint an
 
 Comparison of performance can be seen in the gifs below, at 600hPa.
 
-![](SimCloud_p600_cloud_cover_animation.gif)
+<img src="SimCloud_p600_cloud_cover_animation.gif" width="250" height="250"/>
 
-![](True_p600_cloud_cover_animation.gif)
+<img src="True_p600_cloud_cover_animation.gif" width="250" height="250"/> 
+
 
 ### Known Issues:
 1. The code could be optimised by removing unnecessary loops, replacing them with vectorised operations. This would also make the code easier to read and maintain.
